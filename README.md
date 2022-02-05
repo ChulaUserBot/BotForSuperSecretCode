@@ -1,1 +1,1 @@
-# BotForSuperSecretCode
+# Пароль от админки: 000
